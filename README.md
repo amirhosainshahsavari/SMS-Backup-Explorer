@@ -14,6 +14,8 @@ It’s especially helpful when you need to **search through years of conversatio
 
 Because everything runs **client‑side**, your messages never leave your device. This makes the app ideal for anyone who wants convenience without sacrificing privacy. Whether you're restoring old memories, verifying information, or simply organizing your backups, this tool gives you clarity and control over your SMS history.
 
+**Low storage** - Budget Android devices often run into low storage issues because SMS apps keep years’ worth of messages and metadata. For users with thousands of texts, this can consume hundreds of megabytes or even gigabytes. A simple solution is to create a backup using the **SMS Backup & Restore** app, safely store the XML file, and then delete old messages from the phone to instantly reclaim space. This web‑based viewer lets you open, browse, search, and manage those backups locally in your browser, without uploading anything to a server. It gives you full access to your SMS history while keeping your device storage clean — the perfect balance between freeing space and keeping your conversations accessible.
+
 ---
 
 ## 🌟 Features
